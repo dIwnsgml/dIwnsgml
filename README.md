@@ -1,25 +1,111 @@
-<h1 align="center">Hi 👋, I'm dlwnsgml</h1>
-<h3 align="center">A developer from South Korea</h3>
+<h1 align="center">Jason (Junhee) Lee</h1>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=dIwnsgml&label=Profile%20views&color=0e75b6&style=flat" alt="dIwnsgml" /> </p>-->
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dIwnsgml" alt="dIwnsgml" /></a> </p>-->
-
-- 🌱 I’m currently learning **Nodejs, socket.io**
-
-- 📝 I regularly write articles on [https://floz.tistory.com/](https://floz.tistory.com/)
-
-- 📫 How to reach me **junjason1126@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Computer Science @ University of Rochester · Software Engineer · Builder
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://leejason.dev">Portfolio</a> •
+  <a href="https://leejason.dev/resume">Resume</a> •
+  <a href="https://www.linkedin.com/in/jason-leee">LinkedIn</a> •
+  <a href="mailto:junjason1126@gmail.com">Email</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dIwnsgml&show_icons=true&locale=en&layout=compact" alt="dIwnsgml" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dIwnsgml&show_icons=true&locale=en" alt="dIwnsgml" /></p>
+### About Me
 
-<a href="https://streak-stats.demolab.com/?user=dIwnsgml"><img src="https://streak-stats.demolab.com?user=dIwnsgml" alt="GitHub Streak" /></a>
+I'm a Computer Science student at the **University of Rochester** interested in software engineering, backend systems, full-stack development, and product engineering.
+
+- 💻 Previously a **Software Engineering Intern at Experts Tribe**
+- 🚀 Founder and developer of **Flozable**, a productivity platform used by ~300 users
+- 🖥️ Built **WaveNotch**, a native macOS utility using Swift and SwiftUI
+- 📱 Experience building web, mobile, and backend applications
+- 🌱 Currently exploring data mining, distributed systems, and scalable backend engineering
+- 📍 Rochester, NY
+
+---
+
+### Featured Projects
+
+#### 🚀 [Flozable](https://flozable.com)
+Full-stack productivity platform used by ~300 users.
+
+`TypeScript` `React` `Next.js` `Node.js` `Express` `Redis` `SQL` `Stripe`
+
+- Built backend APIs, caching, authentication, and session infrastructure
+- Implemented recurring subscriptions with Stripe
+- Synchronized data across web, iOS, and Android clients
+
+#### 🖥️ [WaveNotch](https://wavenotch.com)
+Native macOS utility that turns the MacBook notch into an interactive dashboard.
+
+`Swift` `SwiftUI` `macOS`
+
+- Spotify and Apple Music integrations
+- Lyric synchronization and queue management
+- Global shortcuts, launch-at-login, and customizable widgets
+
+#### 📱 Clash of Screentime
+iOS app designed to help users monitor and reduce screen time.
+
+`Swift` `SwiftUI` `Supabase`
+
+- Built mobile user flows for tracking digital habits
+- Integrated synchronized user data with Supabase
+
+#### 🛒 Game-Selling Website
+E-commerce platform for selling digital games.
+
+`PHP` `MySQL` `JavaScript` `HTML/CSS`
+
+- Implemented authentication, product management, and purchasing
+- Co-developed and sold a game through the platform
+
+---
+
+### Experience
+
+**Software Engineering Intern, Mobile — Experts Tribe Inc.**  
+Sep 2025 – Nov 2025
+
+- Built cross-platform mobile features with React Native and Expo
+- Developed reusable UI components and navigation flows
+- Optimized state management and rendering for responsive interactions
+- Collaborated through Git-based code reviews and Agile workflows
+
+**Full-Stack Programmer — SVKS**  
+Jan 2025 – Apr 2025
+
+- Built a resource-sharing platform with Next.js and Prisma
+- Developed responsive interfaces and data-driven workflows
+
+---
+
+### Tech
+
+**Languages**  
+TypeScript · JavaScript · Python · Java · Swift · SQL
+
+**Frontend / Mobile**  
+React · Next.js · React Native · Expo · SwiftUI · Tailwind CSS
+
+**Backend / Data**  
+Node.js · Express · Redis · MariaDB/MySQL · Prisma · Supabase · REST APIs · WebSockets
+
+**Tools / Cloud**  
+Git · GitHub · AWS · Stripe
+
+---
+
+### Currently
+
+- 🔨 Building and improving [WaveNotch](https://wavenotch.com)
+- 📚 Studying Computer Science at the University of Rochester
+- 🔍 Looking for **Summer 2027 Software Engineering internships**
+
+---
+
+<p align="center">
+  <a href="https://leejason.dev">leejason.dev</a>
+</p>
