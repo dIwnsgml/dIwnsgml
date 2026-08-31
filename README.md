@@ -18,7 +18,7 @@
 I'm a Computer Science student at the **University of Rochester** interested in software engineering, backend systems, full-stack development, and product engineering.
 
 - 💻 Previously a **Software Engineering Intern at Experts Tribe**
-- 🚀 Founder and developer of **Flozable**, a productivity platform used by ~300 users
+- 🚀 Founder of **Flozable** — grew the original platform to ~300 users and relaunched it in 2026 with a new product direction
 - 🖥️ Built **WaveNotch**, a native macOS utility using Swift and SwiftUI
 - 📱 Experience building web, mobile, and backend applications
 - 🌱 Currently exploring data mining, distributed systems, and scalable backend engineering
@@ -29,22 +29,24 @@ I'm a Computer Science student at the **University of Rochester** interested in 
 ### Featured Projects
 
 #### 🚀 [Flozable](https://flozable.com)
-Full-stack productivity platform used by ~300 users.
+Productivity platform I founded and have developed across two major iterations.
 
-`TypeScript` `React` `Next.js` `Node.js` `Express` `Redis` `SQL` `Stripe`
+`Next.js` `Supabase` · previously `Node.js` `Express` `Redis` `SQL` `AWS`
 
-- Built backend APIs, caching, authentication, and session infrastructure
-- Implemented recurring subscriptions with Stripe
-- Synchronized data across web, iOS, and Android clients
+- Built and grew the original platform to ~300 users
+- Developed backend APIs, caching, authentication, subscriptions, and cross-platform data synchronization
+- Relaunched Flozable in 2026 with a new product direction using Next.js and Supabase to simplify infrastructure and reduce operating costs
+- [View the original v1 backend →](https://github.com/FLOZABLE/FLOZABLE)
 
-#### 🖥️ [WaveNotch](https://wavenotch.com)
+#### 🖥️ [WaveNotch](https://github.com/dIwnsgml/WaveNotch)
 Native macOS utility that turns the MacBook notch into an interactive dashboard.
 
 `Swift` `SwiftUI` `macOS`
 
-- Spotify and Apple Music integrations
-- Lyric synchronization and queue management
-- Global shortcuts, launch-at-login, and customizable widgets
+- Built media controls with Spotify and Apple Music support, lyrics, and queue management
+- Added system integrations including global shortcuts and launch-at-login
+- Built a customizable widget/plugin system for extending the notch experience
+- [Website →](https://wavenotch.com)
 
 #### 📱 Clash of Screentime
 iOS app designed to help users monitor and reduce screen time.
