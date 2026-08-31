@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://leejason.dev">Portfolio</a> •
+  <a href="https://leejason.dev/blog">Blog</a> •
   <a href="https://leejason.dev/resume">Resume</a> •
   <a href="https://www.linkedin.com/in/jason-leee">LinkedIn</a> •
   <a href="mailto:junjason1126@gmail.com">Email</a>
@@ -21,6 +22,7 @@ I'm a Computer Science student at the **University of Rochester** interested in 
 - 🚀 Founder of **Flozable** — grew the original platform to ~300 users and relaunched it in 2026 with a new product direction
 - 🖥️ Built **WaveNotch**, a native macOS utility using Swift and SwiftUI
 - 📱 Experience building web, mobile, and backend applications
+- ✍️ Published 47 programming tutorials reaching 27K+ views; now writing in English at [leejason.dev/blog](https://leejason.dev/blog)
 - 🌱 Currently exploring data mining, distributed systems, and scalable backend engineering
 - 📍 Rochester, NY
 
@@ -105,6 +107,18 @@ Git · GitHub · AWS · Stripe
 - 🔨 Building and improving [WaveNotch](https://wavenotch.com)
 - 📚 Studying Computer Science at the University of Rochester
 - 🔍 Looking for **Summer 2027 Software Engineering internships**
+
+---
+
+### Writing
+
+I started writing programming tutorials in Korean while learning software development, publishing 47 articles that reached more than **27,000 cumulative views and 21,000 visitors**.
+
+I'm now continuing my technical writing in English at **[leejason.dev/blog](https://leejason.dev/blog)**.
+
+Topics have included web development, databases, programming languages, networking, game development, and lessons from building my own projects.
+
+[English Blog →](https://leejason.dev/blog) · [Archived Korean Blog →](https://floz.tistory.com)
 
 ---
 
