@@ -1,127 +1,25 @@
-<h1 align="center">Jason (Junhee) Lee</h1>
+# Jason (Junhee) Lee
 
-<p align="center">
-  Computer Science @ University of Rochester · Software Engineer · Builder
-</p>
+CS sophomore at the University of Rochester. I build full-stack, backend, and mobile software.
+Open to Summer 2027 SWE internships.
 
-<p align="center">
-  <a href="https://leejason.dev">Portfolio</a> •
-  <a href="https://leejason.dev/blog">Blog</a> •
-  <a href="https://leejason.dev/resume">Resume</a> •
-  <a href="https://www.linkedin.com/in/jason-leee">LinkedIn</a> •
-  <a href="mailto:junjason1126@gmail.com">Email</a>
-</p>
+[Portfolio](https://leejason.dev) · [Resume](https://leejason.dev/resume) · [LinkedIn](https://www.linkedin.com/in/jason-leee/) · [Email](mailto:junjason1126@gmail.com)
 
----
+## Recently
 
-### About Me
+- Undergraduate Researcher, BEAR Lab (human-computer interaction and mixed reality)
+- Software Engineering Intern, Axionum (Quant AI Terminal frontend)
+- Software Engineering Intern, Experts Tribe (React Native)
 
-I'm a Computer Science student at the **University of Rochester** interested in software engineering, backend systems, full-stack development, and product engineering.
+## Projects
 
-- 💻 Previously a **Software Engineering Intern at Experts Tribe**
-- 🚀 Founder of **Flozable** — grew the original platform to ~300 users and relaunched it in 2026 with a new product direction
-- 🖥️ Built **WaveNotch**, a native macOS utility using Swift and SwiftUI
-- 📱 Experience building web, mobile, and backend applications
-- ✍️ Published 47 programming tutorials reaching 27K+ views; now writing in English at [leejason.dev/blog](https://leejason.dev/blog)
-- 🌱 Currently exploring data mining, distributed systems, and scalable backend engineering
-- 📍 Rochester, NY
-
----
-
-### Featured Projects
-
-#### 🚀 [Flozable](https://flozable.com)
-Productivity platform I founded and have developed across two major iterations.
-
-`Next.js` `Supabase` · previously `Node.js` `Express` `Redis` `SQL` `AWS`
-
-- Built and grew the original platform to ~300 users
-- Developed backend APIs, caching, authentication, subscriptions, and cross-platform data synchronization
-- Relaunched Flozable in 2026 with a new product direction using Next.js and Supabase to simplify infrastructure and reduce operating costs
-- [View the original v1 backend →](https://github.com/FLOZABLE/FLOZABLE)
-
-#### 🖥️ [WaveNotch](https://github.com/dIwnsgml/WaveNotch)
-Native macOS utility that turns the MacBook notch into an interactive dashboard.
-
-`Swift` `SwiftUI` `macOS`
-
-- Built media controls with Spotify and Apple Music support, lyrics, and queue management
-- Added system integrations including global shortcuts and launch-at-login
-- Built a customizable widget/plugin system for extending the notch experience
-- [Website →](https://wavenotch.com)
-
-#### 📱 Clash of Screentime
-iOS app designed to help users monitor and reduce screen time.
-
-`Swift` `SwiftUI` `Supabase`
-
-- Built mobile user flows for tracking digital habits
-- Integrated synchronized user data with Supabase
-
-#### 🛒 Game-Selling Website
-E-commerce platform for selling digital games.
-
-`PHP` `MySQL` `JavaScript` `HTML/CSS`
-
-- Implemented authentication, product management, and purchasing
-- Co-developed and sold a game through the platform
-
----
-
-### Experience
-
-**Software Engineering Intern, Mobile — Experts Tribe Inc.**  
-Sep 2025 – Nov 2025
-
-- Built cross-platform mobile features with React Native and Expo
-- Developed reusable UI components and navigation flows
-- Optimized state management and rendering for responsive interactions
-- Collaborated through Git-based code reviews and Agile workflows
-
-**Full-Stack Programmer — SVKS**  
-Jan 2025 – Apr 2025
-
-- Built a resource-sharing platform with Next.js and Prisma
-- Developed responsive interfaces and data-driven workflows
-
----
-
-### Tech
-
-**Languages**  
-TypeScript · JavaScript · Python · Java · Swift · SQL
-
-**Frontend / Mobile**  
-React · Next.js · React Native · Expo · SwiftUI · Tailwind CSS
-
-**Backend / Data**  
-Node.js · Express · Redis · MariaDB/MySQL · Prisma · Supabase · REST APIs · WebSockets
-
-**Tools / Cloud**  
-Git · GitHub · AWS · Stripe
-
----
-
-### Currently
-
-- 🔨 Building and improving [WaveNotch](https://wavenotch.com)
-- 📚 Studying Computer Science at the University of Rochester
-- 🔍 Looking for **Summer 2027 Software Engineering internships**
-
----
-
-### Writing
-
-I started writing programming tutorials in Korean while learning software development, publishing 47 articles that reached more than **27,000 cumulative views and 21,000 visitors**.
-
-I'm now continuing my technical writing in English at **[leejason.dev/blog](https://leejason.dev/blog)**.
-
-Topics have included web development, databases, programming languages, networking, game development, and lessons from building my own projects.
-
-[English Blog →](https://leejason.dev/blog) · [Archived Korean Blog →](https://floz.tistory.com)
-
----
-
-<p align="center">
-  <a href="https://leejason.dev">leejason.dev</a>
-</p>
+- **[Flozable](https://leejason.dev/projects/flozable):** a study platform I founded. I wrote most of the original
+  backend, rewrote it as a [TypeScript API](https://github.com/FLOZABLE/FLOZABLE) (Express, Prisma, Redis, Socket.IO, mediasoup),
+  and co-built the 2026 rebuild on Next.js and Supabase.
+- **[Flozable Focus](https://leejason.dev/projects/flozable-focus):** a Manifest V3 Chrome extension with 70 users
+  that gathers Canvas, Blackboard, and Gradescope deadlines.
+- **[WaveNotch](https://leejason.dev/projects/wavenotch):** a notarized macOS app that turns the MacBook notch
+  into a dashboard for media and live lyrics.
+- **[Reparked](https://leejason.dev/projects/reparked):** an iOS app that ranks parking by the whole trip, built solo.
+- **[Clash of Screentime](https://leejason.dev/projects/clash-of-screentime):** 1v1 screen-time challenges on iOS,
+  built with one collaborator.
