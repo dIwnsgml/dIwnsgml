@@ -26,6 +26,6 @@ Open to Summer 2027 SWE internships.
 
 ## This December
 
-[![@dIwnsgml's contributions as Christmas lights](https://commitlights.e5d.workers.dev/api/lights/dIwnsgml.svg?v=3)](https://commitlights.e5d.workers.dev/?u=dIwnsgml&utm_source=readme&utm_medium=ours&utm_campaign=founder)
+[![@dIwnsgml's contributions as Christmas lights](https://commitlights.e5d.workers.dev/api/lights/dIwnsgml.svg?v=4)](https://commitlights.e5d.workers.dev/?u=dIwnsgml&utm_source=readme&utm_medium=ours&utm_campaign=founder)
 
 My contribution graph as Christmas lights, made with [Commit Lights](https://commitlights.e5d.workers.dev/?utm_source=readme&utm_medium=ours&utm_campaign=founder-link), a small thing I built this week.
