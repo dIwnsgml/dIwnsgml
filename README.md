@@ -23,3 +23,9 @@ Open to Summer 2027 SWE internships.
 - **[Reparked](https://leejason.dev/projects/reparked):** an iOS app that ranks parking by the whole trip, built solo.
 - **[Clash of Screentime](https://leejason.dev/projects/clash-of-screentime):** 1v1 screen-time challenges on iOS,
   built with one collaborator.
+
+## This December
+
+[![@dIwnsgml's contributions as Christmas lights](https://commitlights.e5d.workers.dev/api/lights/dIwnsgml.svg)](https://commitlights.e5d.workers.dev/?u=dIwnsgml&utm_source=readme&utm_medium=ours&utm_campaign=founder)
+
+My contribution graph as Christmas lights, made with [Commit Lights](https://commitlights.e5d.workers.dev/?utm_source=readme&utm_medium=ours&utm_campaign=founder-link), a small thing I built this week.
